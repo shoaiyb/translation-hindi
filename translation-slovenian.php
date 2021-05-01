@@ -3,7 +3,7 @@
 global $Wcms;
 
 $Wcms->addListener('settings', function ($args) {
-    $translations = array_map('str_getcsv', file(__DIR__ . '/sl.csv')); // change accordingly to country locale
+    $translations = array_map('str_getcsv', file(__DIR__ . '/hi_IN.csv')); // change accordingly to country locale
 
     foreach ($translations as $replacement) {
         if (count($replacement) !== 2) {
