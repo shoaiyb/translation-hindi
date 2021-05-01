@@ -1,10 +1,10 @@
 <p align="center"><img src="preview.jpg?v=3" /></p>
 <h1 align="center">language-hi_IN</h1>
-<p align="center">Hindi translations for WonderCMS (by shoaiyb sysa)</p>
+<p align="center">Hindi (हिंदी) translations for WonderCMS (by shoaiyb sysa)</p>
 
 <br><br>
 
-This plugin adds Hindi translations to the WonderCMS admin area, based on `https://github.com/StephanStanisic/zlanguage-nl_NL` (experimental version).
+This plugin adds Hindi (हिंदी) translations to the WonderCMS admin area, based on `https://github.com/StephanStanisic/zlanguage-nl_NL` (experimental version).
 <!--
 # How to adapt to another language
 1. Fork this repository (which is the latest with all included translations): https://github.com/robiso/translation-slovenian/
